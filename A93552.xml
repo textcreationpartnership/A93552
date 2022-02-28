@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The in-securitie of princes, considered in an occasionall meditation upon the Kings late sufferings and death.</title>
+            <author>Somner, William, 1598-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93552</idno>
+            <idno type="STC">Wing S4665</idno>
+            <idno type="STC">Thomason E546_25</idno>
+            <idno type="STC">ESTC R203598</idno>
+            <idno type="EEBO-CITATION">99863505</idno>
+            <idno type="PROQUEST">99863505</idno>
+            <idno type="VID">164977</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164977)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E546[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The in-securitie of princes, considered in an occasionall meditation upon the Kings late sufferings and death.</title>
+                  <author>Somner, William, 1598-1669.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Somner.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "March. 15.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164977:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>THE IN-SECURITIE OF PRINCES, Conſidered in an occa<g ref="char:EOLhyphen"/>ſionall Meditation upon the KINGS late Sufferings and Death.</p>
+            <q>
+               <bibl>HORAT.</bibl>
+               <l>Saepius ventis agitatur ingens</l>
+               <l>Pinus; &amp; celſa graviora caſu.</l>
+               <l>Decidunt Turres; feriúntque ſummos</l>
+               <l>— <hi>Fulgura montes.</hi>
+               </l>
+            </q>
+            <p>
+               <g ref="char:leaf">❧</g> Printed in the year, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:164977:2"/>
+            <!-- PDF PAGE 44 -->
+            <pb n="1" facs="tcp:164977:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>THE IN-SECURITIE OF PRINCES.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">O</seg> How doth ſad experience verifie</l>
+               <l>His perilous eſtate that ſits on high!</l>
+               <l>The lowly ſhrub ſtands ever firm and faſt,</l>
+               <l>Whil'ſt lofty Cedars ſhake with every blaſt</l>
+               <l>No ſtormy winds diſturb the humble vale,</l>
+               <l>Whilſt the proud mountain feels the ſmalleſt gale.</l>
+               <l>Safety but ſeldom at the Court reſides:</l>
+               <l>It flies the Prince, and with the Peaſant 'bides.</l>
+               <l>From Palaces contentment keeps aloof:</l>
+               <l>[A cottage-gueſt] it loves the low-ſet roof.</l>
+            </lg>
+            <lg>
+               <head>VOTUM AUTORIS.</head>
+               <l>WEre I then of the twain my choice to make</l>
+               <l>I'de leave the Palace, and the Cottage take</l>
+            </lg>
+            <lg>
+               <head>ANOTHER.</head>
+               <l>O To what dangers, to what cares and fears,</l>
+               <l>Is he expoſed that the Sceptre bears!</l>
+               <pb facs="tcp:164977:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 45 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:164977:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 45 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:164977:4"/>
+               <!-- PDF PAGE 46 -->
+            </lg>
+            <lg>
+               <l>What though a golden Crown his brows adorns?</l>
+               <l>'Tis little better than a crown of thorns.</l>
+               <l>Such cares his head moleſt, his heart ſuch fears,</l>
+               <l>Whoſe head the Crown, whoſe hand the Sceptre bears.</l>
+               <l>The ſaying's old, but true: were it but known</l>
+               <l>To him that in the ſtreets ſhould find a Crown,</l>
+               <l>What cares attend the ſame, he would not ſtoup</l>
+               <l>[As hardly worth the pains] to take it up.</l>
+               <l>No Crown without a croſſe: the Crown and Care,</l>
+               <l>Like Sin and Sorrow, undivided are.</l>
+               <l>'Twixt this and that as great affinitie,</l>
+               <l>As 'twixt Effect and Cruſe; 'twixt Fruit and Tree.</l>
+               <l>For worldly crowns how fond is then the ſtrife!</l>
+               <l>No crown for me, except the Crown of Life!</l>
+               <l>Thoſe, like to worldly glory, poſt away,</l>
+               <l>This immarceſſible, and laſts for ay.</l>
+               <l>Though robbed of the former, yet the head</l>
+               <l>Of brave King CHARLES with this is garniſhed:</l>
+               <l>And he triumphant ſits aloft and fings</l>
+               <l>Continuall praiſes to the King of kings.</l>
+               <l>Above the reach of thoſe malignant ones,</l>
+               <l>Rebellious Corahs, worſt of Belials ſons;</l>
+               <l>Whom as he here with patience, ſo there</l>
+               <l>Beholds with pitie, and with ſmiling cheer.</l>
+               <pb n="3" facs="tcp:164977:4"/>
+               <!-- PDF PAGE 46 -->
+               <l>Laughs at their malice, diſappointed ſo,</l>
+               <l>That making him a mortall crown forgo,</l>
+               <l>A crown immortall he hath gaind. Fond men!</l>
+               <l>Tis you, not he, that are the loſers then</l>
+               <l>For you have loſt a Prince, of whom Fame ſwore,</l>
+               <l>There never was his like nor ſhould be more.</l>
+               <l>For Intellectuals, t'admiration rare,</l>
+               <l>And for his Morals beyond all compare.</l>
+               <l>For his Religion, paſt example ſound,</l>
+               <l>And for Devotion ne're enough renownd.</l>
+               <l>Whether as Husband, Parent, Maſter, he</l>
+               <l>A Myrror fit for all poſterity.</l>
+               <l>In ſhort, ſay Malis what ſoe're ſhe can,</l>
+               <l>The Sun ne're ſhone upon a braver man:</l>
+               <l>And of his Country ſuch a tender Father,</l>
+               <l>That, than wrong it, he Martyrdom choſe rather.</l>
+               <l>And thus unto ſome few mens lawleſſe pleaſure</l>
+               <l>VVas ſacrific'd three Kingdoms choiceſt treaſure.</l>
+               <l>VVhilſt villany with villanie's upheld;</l>
+               <l>And Murder for Rebellion made the ſhield.</l>
+               <l>Thus bad beginnings to worſe ends are ty'd:</l>
+               <l>A Rebell firſt, and then a Regicide.</l>
+               <l>No other plea, that ever I could ſee,</l>
+               <l>For that their ſo much urg'd NECESSITIE.</l>
+               <pb n="4" facs="tcp:164977:5"/>
+               <!-- PDF PAGE 47 -->
+               <l>Neceſſitie? ô heavens! curs'd be that need,</l>
+               <l>That makes a ſinner in his ſin proceed!</l>
+               <l>If theſe be ſaints, if this their doctrine be,</l>
+               <l>From it and them good Lord deliver me!</l>
+               <l>If ſaints are underſtood in this large ſence,</l>
+               <l>Twixt Saints and Devils what's the difference?</l>
+               <l>If theſe be ſaints, this their divinitie,</l>
+               <l>A ſinner rather than a ſaint for me!</l>
+               <l>This ſeems more like the voice of Hell or Room,</l>
+               <l>Into whoſe ſecrets let not my ſoul come!</l>
+               <l>But ſee, what by fair words you promiſed,</l>
+               <l>By your foul deeds is now accompliſhed,</l>
+               <l>Though in a better ſence; good out of ill</l>
+               <l>Heavens midwifery producing, ſpight of hell.</l>
+               <l>For, maugre men and devils, he's become</l>
+               <l>So glorious as no Prince in Chriſtendome.</l>
+               <l>And is by ſo much more exalted now,</l>
+               <l>As lately trampled under foot by you.</l>
+               <l>Experience thus confirms the
+<note n="*" place="margin">Vincit qui patitur.</note> Adagy:</l>
+               <l>"That he that ſuffers gets the victory.</l>
+            </lg>
+            <lg>
+               <head>VOTUM AUTORIS.</head>
+               <l>IS ſuffering then to heaven the Kings high-way?</l>
+               <l>Goes the voluptuous worldling clean aſtray?</l>
+               <pb n="5" facs="tcp:164977:5"/>
+               <!-- PDF PAGE 47 -->
+            </lg>
+            <lg>
+               <l>Then Mammoniſts ſing Requiems to your ſouls!</l>
+               <l>Let Bacchus boyes carowſe Their wine in bowls:</l>
+               <l>Let Gluttons of their bellies make their god:</l>
+               <l>Let the Proud glory to be richly clad:</l>
+               <l>Let Sluggards ſtretch themſelves on beds of down:</l>
+               <l>Their heads with roſe-buds let the Wantons crown:</l>
+               <l>Let the ambitious love to towr on high:</l>
+               <l>Let the malicious hugg his evil ey:</l>
+               <l>Whilſt the proud Rebell triumpheth that he</l>
+               <l>Himſelf can riſe by fall of Monarchy:</l>
+               <l>Whilſt the Sacrileg'ſt celebrates the day,</l>
+               <l>That made Church-lands become his lawfull prey:</l>
+               <l>But thou, my Soul! abhorre ſuch proſtitutions:</l>
+               <l>Such ſenſual, Epicurean, baſe pollutions!</l>
+               <l>Meer by-paths thoſe, for Straglers: wayes that tend,</l>
+               <l>Like that broad road, unto ſome diſmall end.</l>
+               <l>The Croſſe let be thy Portion, ſanctifi'd!</l>
+               <l>Thy Soveraign, next thy Saviour be thy guide!</l>
+               <l>Went thy ſacred Saviour to the fatall tree,</l>
+               <l>Thy Soveraigne to the block, ſo willingly?</l>
+               <l>And wilt thou ſtartle at a petty Croſſe?</l>
+               <l>A light affliction, ſome ſlight temporall loſſe?</l>
+               <l>Such Captains, and a Coward? No, thus led,</l>
+               <l>Ile ſcorn it ſhould be ſaid I flinch'd, or fled.</l>
+               <pb n="6" facs="tcp:164977:6"/>
+               <!-- PDF PAGE 48 -->
+               <l>Heavens ſay Amen! and grant I henceforth may,</l>
+               <l>The broad declining, chuſe the narrow way!</l>
+               <l>There though hearts grief may by the way offend,</l>
+               <l>Yet true hearts-eaſe ſhall crown my jonrneys end</l>
+               <l>Such as no eye hath ſeen, ear heard, nor can</l>
+               <l>Conceived be by heart of mortall man.</l>
+               <l>A period therefore ſure. Let admiration</l>
+               <l>Make up the reſt in ſilent contemplation.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
